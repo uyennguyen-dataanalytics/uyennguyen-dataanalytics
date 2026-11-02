@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Uyen Nguyen</h1>
 
 <p align="center">
-  <strong>Data Analyst | Excel • SQL • Data Visualization</strong>
+  <strong>Data Analyst | Clinical Data Manager | Clinical Research</strong>
 </p>
 
 </p>
@@ -12,48 +12,31 @@
 
 ## About Me
 
-I'm an aspiring Data Analyst interested in exploring data, identifying patterns, and communicating actionable insights.
+I'm an aspiring Data Analyst with 4+ years of experience in clinical trial and academic research data.
 
 - Interested in data analysis, reporting, and visualization
-- Practicing SQL for data querying and transformation
+- Passionate about problem-solving using data-related approach
 - Building projects to strengthen my analytical skills
-- Continuously learning new tools and techniques
+- Willing to learn new tools and techniques
 
-Detail-oriented and growth-minded Clinical Data Manager and Data Analyst with 4+ years of experience in clinical trial and academic research data, alongside 8+ years of experience in multilingual and cross-industry environments. Passionate about transforming data into meaningful insights through analytical thinking, problem-solving, and continuous learning.
 
-Skills & Tools
-
-Data Analysis & Transformation: Excel, Power Query, SQL, R
-Data Visualization: Power BI
-Microsoft Power Platform: Power Apps, Power Automate
-Research & Data Management: Clinical Trial Data Management, Research Data Management
-Other Skills: Analytical Thinking, Problem-Solving, Reporting
-
-## Tech Stack
+## Technical Skills
 
 **Data Analysis & Data Transformation**
-
-- Excel       ▰ ▰ ▰ ▰ ▱ 4/5
-- SQL         ▰ ▰ ▰ ▱ ▱ 3/5
-
-- **Data Analysis & Data Transformation**
-
-- Excel
-  <br>
-  <img src="https://progress-bar.dev/80/?title=&width=200&color=2ea44f" />
-
-- SQL
-  <br>
-  <img src="https://progress-bar.dev/60/?title=&width=200&color=2ea44f" />
-
+- Excel/Power Query        ▰ ▰ ▰ ▰ ▱ 4/5
+- MSSQL                    ▰ ▰ ▰ ▱ ▱ 3/5
+- R                        ▰ ▰ ▱ ▱ ▱ 2/5
+- Python                   ▰ ▱ ▱ ▱ ▱ 1/5
 
 **Data Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+- Power BI                ▰ ▰ ▰ ▱ ▱ 3/5
 
 **Databases**
 
-![MSSQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+- MS SQL Server
+
+**Other**
+- Canva
 
 
 ## Featured Projects
@@ -67,12 +50,12 @@ Other Skills: Analytical Thinking, Problem-Solving, Reporting
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AlexNg110&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=uyennguyen-dataanalytics&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
     alt="GitHub statistics"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNg110&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyennguyen-dataanalytics&layout=compact&theme=github_dark&hide_border=true"
     alt="Most used programming languages"
     height="165"
   />
@@ -80,14 +63,12 @@ Other Skills: Analytical Thinking, Problem-Solving, Reporting
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlexNg110&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=uyennguyen-dataanalytics&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/uyen-n-0b370b1b3)
 - [Email](mailto:phamlinhuyen.nguyen@gmail.com)
-- [GitHub](https://github.com/AlexNg110)
+- [GitHub](https://github.com/uyennguyen-dataanalytics)
 
-<p align="center">
-  <sub>Thanks for visiting my profile!</sub>
 </p>
