@@ -37,12 +37,12 @@ Power BI                   ▰ ▰ ▰ ▱ ▱
 
 ## Featured Projects
 
-| Project | Description | Tools | Category
-| --- | --- | --- | ---
-| [Project Data Warehouse](https://github.com/YOUR_USERNAME/PROJECT_1) | [Placeholder] | SQL | Data Engineering
-| [Project Data](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | SQL | Data Analysis
-| [Project ](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power BI | Data Visualization
-| [Project ](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power Apps | App Development
+| Project | Description | Tools | Category | Status
+| --- | --- | --- | --- | ---
+| [Project Data Warehouse](https://github.com/YOUR_USERNAME/PROJECT_1) | Build mordern data warehouse using Medallion architecture | SQL | Data Engineering | In progress
+| [Project Data](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | SQL | Data Analysis | Planned
+| [Project ](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power BI | Data Visualization | Updating
+| [Project ](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power Apps | App Development | Updating
 
 ## GitHub Stats
 
