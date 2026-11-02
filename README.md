@@ -4,10 +4,6 @@
   <strong>Data Analyst | Clinical Data Manager | Clinical Research</strong>
 </p>
 
-</p>
-
-</p>
-
 ---
 
 ## About Me
@@ -23,47 +19,43 @@ I'm an aspiring Data Analyst with 4+ years of experience in clinical trial and a
 ## Technical Skills
 
 **Data Analysis & Data Transformation**
-- Excel/Power Query        ▰ ▰ ▰ ▰ ▱ 4/5
-- MSSQL                    ▰ ▰ ▰ ▱ ▱ 3/5
-- R                        ▰ ▰ ▱ ▱ ▱ 2/5
-- Python                   ▰ ▱ ▱ ▱ ▱ 1/5
+<pre>
+Excel / Power Query        ▰ ▰ ▰ ▰ ▱
+SQL (Microsoft SQL Server) ▰ ▰ ▰ ▱ ▱
+R                          ▰ ▰ ▱ ▱ ▱
+Python                     ▰ ▱ ▱ ▱ ▱
+</pre>
 
 **Data Visualization**
-- Power BI                ▰ ▰ ▰ ▱ ▱ 3/5
+<pre>
+Power BI                   ▰ ▰ ▰ ▱ ▱
+</pre>
 
-**Databases**
-
-- MS SQL Server
-
-**Other**
-- Canva
-
+**Others**
+- Database: Microsoft SQL Server
+- Design: Canva
 
 ## Featured Projects
 
-| Project | Description | Tools |
-| --- | --- | --- |
-| [Project 1](https://github.com/YOUR_USERNAME/PROJECT_1) | [Placeholder] | SQL |
-| [Project 2](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power BI |
+| Project | Description | Tools | Category
+| --- | --- | --- | ---
+| [Project Data Warehouse](https://github.com/YOUR_USERNAME/PROJECT_1) | [Placeholder] | SQL | Data Engineering
+| [Project Data](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | SQL | Data Analysis
+| [Project ](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power BI | Data Visualization
+| [Project ](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power Apps | App Development
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=uyennguyen-dataanalytics&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyennguyen-dataanalytics&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most used programming languages"
-    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=uyennguyen-dataanalytics&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Programming Languages"
   />
 </p>
 
----
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=uyennguyen-dataanalytics&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=uyennguyen-dataanalytics&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## Connect With Me
 
