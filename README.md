@@ -20,10 +20,10 @@ I'm an aspiring Data Analyst with 4+ years of experience in clinical trial and a
 
 **Data Analysis & Data Transformation**
 <pre>
-Excel / Power Query        ▰ ▰ ▰ ▰ ▱
-SQL (Microsoft SQL Server) ▰ ▰ ▰ ▱ ▱
-R                          ▰ ▰ ▱ ▱ ▱
-Python                     ▰ ▱ ▱ ▱ ▱
+Excel / Power Query           ▰ ▰ ▰ ▰ ▱
+SQL (Microsoft SQL Server)    ▰ ▰ ▰ ▱ ▱
+R                             ▰ ▰ ▱ ▱ ▱
+Python                        ▰ ▱ ▱ ▱ ▱
 </pre>
 
 **Data Visualization**
