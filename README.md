@@ -13,7 +13,7 @@ I'm an aspiring Data Analyst with 4+ years of experience in clinical trial and a
 - Interested in data analysis, reporting, and visualization
 - Passionate about problem-solving using data-related approach
 - Building projects to strengthen my analytical skills
-- Willing to learn new tools and techniques
+- Continuously learning new tools and techniques
 
 
 ## Technical Skills
