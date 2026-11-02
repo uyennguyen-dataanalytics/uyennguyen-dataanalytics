@@ -28,7 +28,7 @@ Python                        ▰ ▱ ▱ ▱ ▱
 
 **Data Visualization**
 <pre>
-Power BI                   ▰ ▰ ▰ ▱ ▱
+Power BI                      ▰ ▰ ▰ ▱ ▱
 </pre>
 
 **Others**
