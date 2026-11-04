@@ -40,7 +40,7 @@ Power BI                      ▰ ▰ ▰ ▱ ▱
 | Project | Description | Tools | Category | Status
 | --- | --- | --- | --- | ---
 | [Data Warehouse](https://github.com/uyennguyen-dataanalytics/SQL-data-warehouse-project) | Build mordern data warehouse using Medallion architecture | SQL | Data Engineering | In progress
-| [Project Data](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | SQL | Data Analysis | Planned
+| [Data Analysis](https://github.com/uyennguyen-dataanalytics/SQL-data-analysis-project) | Develop SQL-based analytics | SQL | Data Analysis | Planned
 | [Project ](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power BI | Data Visualization | Updating
 | [Project ](https://github.com/YOUR_USERNAME/PROJECT_2) | [Placeholder] | Power Apps | App Development | Updating
 
