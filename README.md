@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm an aspiring Data Analyst with 5+ years of experience in clinical trial and academic research data.
+I'm an aspiring Data Analyst/Data Scientist with 5+ years of experience in clinical trial and academic research data.
 
 - Interested in data analysis, reporting, and visualization
 - Passionate about problem-solving using data-related approach
